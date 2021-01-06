@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 import keyword
 
 # 第一个注释
