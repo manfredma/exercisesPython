@@ -3,13 +3,13 @@ from time import sleep
 
 import pygame
 
-from alien_game.alien import Alien
-from alien_game.bullet import Bullet
-from alien_game.button import Button
-from alien_game.game_stats import GameStats
-from alien_game.scoreboard import Scoreboard
-from alien_game.settings import Settings
-from alien_game.ship import Ship
+from alien import Alien
+from bullet import Bullet
+from button import Button
+from game_stats import GameStats
+from scoreboard import Scoreboard
+from settings import Settings
+from ship import Ship
 
 
 class AlienInvasion:

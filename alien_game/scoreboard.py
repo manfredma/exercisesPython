@@ -1,6 +1,6 @@
 import pygame.font
 
-from alien_game.ship import Ship
+from ship import Ship
 
 
 class Scoreboard:
